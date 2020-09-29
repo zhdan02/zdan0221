@@ -1,0 +1,19 @@
+body {
+  font-family: 'PT Sans', sans-serif;
+  background-color: #f5f5f5;
+}
+
+h1 {
+  padding-top: 150px;
+  text-align: center;
+
+  background-color: #f5f5f5;
+
+}
+p{
+  font-size: 18px;
+  background-color: #f5f5f5;
+}
+img{
+  padding-top: 40px;
+}
